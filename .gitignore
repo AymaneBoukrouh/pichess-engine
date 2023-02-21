@@ -3,3 +3,6 @@ build/
 
 .idea/
 .vscode/
+
+obj/
+bin/
