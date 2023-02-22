@@ -8,4 +8,6 @@
 
 uint64_t get_file (char c);
 uint64_t get_rank (int n);
+uint64_t get_forward_diagonal (char c, int n);
+uint64_t get_backward_diagonal (char c, int n);
 uint64_t get_square (std::string s);
